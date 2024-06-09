@@ -16,7 +16,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on React, Node.Js, TypeScript, Python, Tailwindcss
+- 🔭 I’m currently working on React, Node.Js, TypeScript, Golang, .NET, Tailwindcss
 - 🌱 I’m currently learning DevOps
 - 🙌 Hobbies: Coding, Anime, Music, Movie 
 

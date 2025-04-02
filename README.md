@@ -12,7 +12,7 @@
 - ⚡Programing Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,cs,golang,rust,cpp" />
+    <img src="https://skillicons.dev/icons?i=typescript,cs,rust,golang" />
   </a>
 </p>
 

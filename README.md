@@ -2,13 +2,6 @@
 
 - Software Engineer
 
-- 💻 Tech stacks:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,expressjs,dotnet,prisma,mongodb,postgres&perline=4" />
-  </a>
-</p>
-
 - ⚡Programing Languages:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,8 +9,14 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on React, Node.Js, TypeScript, Golang, .NET, Tailwindcss
-- 🌱 I’m currently learning DevOps
+- 💻 Tech stacks:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,nestjs,dotnet,actix,prisma,mongodb,postgres&perline=3" />
+  </a>
+</p>
+
+- 🔭 I’m currently working on React, Node.Js, .NET, Actix
 - 🙌 Hobbies: Coding, Anime, Music, Movie 
 
 <!--

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a Software Engineer who love .NET & Rust techs.
+- I'm a Software Engineer who love both .NET and Rust.
 
 - ⚡Programing Languages:
   <p>

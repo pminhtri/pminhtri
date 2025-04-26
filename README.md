@@ -1,20 +1,32 @@
 ### Hi there 👋
 
-- Software Engineer
+- I'm a Software Engineer who love .NET & Rust techs.
 
 - ⚡Programing Languages:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,cs,rust,golang" />
-  </a>
-</p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=typescript,cs,rust,golang" />
+    </a>
+  </p>
 
 - 💻 Tech stacks:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,nestjs,dotnet,actix,prisma,mongodb,postgres&perline=3" />
-  </a>
-</p>
+  <p>
+    FRONTEND:
+    <p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,mui,tailwind" />
+      </a>
+    </p>
+  </p>
+
+  <p>
+    BACKEND:
+    <p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nestjs,dotnet,actix,prisma,mongodb,postgres" />
+      </a>
+    </p>
+  </p>
 
 - 🔭 I’m currently working on React, Node.Js, .NET, Actix
 - 🙌 Hobbies: Coding, Anime, Music, Movie 
